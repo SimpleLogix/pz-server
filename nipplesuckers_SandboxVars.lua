@@ -959,7 +959,7 @@ SandboxVars = {
     },
     SkillRecoveryJournal = {
         -- Minimum=1 Maximum=100 Default=100
-        RecoveryPercentage = 47,
+        RecoveryPercentage = 65,
         -- Minimum=0.00 Maximum=1000.00 Default=1.00
         TranscribeSpeed = 1.5,
         -- Minimum=0.00 Maximum=1000.00 Default=1.00
