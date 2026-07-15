@@ -986,4 +986,124 @@ SandboxVars = {
         ModDataTrack = "",
         SecurityFeatures = 1,
     },
+    newcontainersnc = {
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        ammocan30 = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        ammocan50 = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        basket = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        basket_forage = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        beveragejug = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        breadbox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        canteen = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        canteenmilitary = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        canvastote = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        cardboard_large = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        cardboard_medium = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        cardboard_small = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        cdbinder = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        cdcase = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        coffeecan = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        componentkit = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        cookiejar = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        cutleryroll = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        dishtub = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        donutbox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        fakerock = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        filefolder = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        fishingcreel = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        flask = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        foragepouch = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        halfgaljug = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        hardwareorganizer = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        jewelrybox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        jugempty = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        kindlingbox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        kidsflask = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        lockbox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        milkcrate = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        milkcratelong = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        petcarrier = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        piggybank = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        pitcherempty_01 = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        pitcherempty_02 = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        pizzabox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        plastictote_large = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        plastictote_medium = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        plastictote_small = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        plasticware = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        plasticware_small = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        plasticware_tall = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        roadsidekit = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        roughbox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        sandwichbagbox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        sandwichbag = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        shoebox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        shoppingbasket = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        spicerack = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        spiffokeeper = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        tacklebox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        tackleboxlarge = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        tissuebox = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        travelkit = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        trunkorganizer = 1.0,
+        -- Minimum=0.00 Maximum=100.00 Default=1.00
+        woodcarrier = 1.0,
+    },
 }
